@@ -1,0 +1,35 @@
+Category,Subcategory,Delta,maxInterval,JaccardIndex
+Standard atomic weight,Standard atomic weight,[-81.34;152.3],"(3.0, 4.0)",0.0043
+Nitrate,Air (aerosols and precipitation) ,[-16;18],"(3.0, 4.0)",0.0294
+Nitrate,Sea water and estuaries ,[-6;20],"(3.0, 4.0)",0.0385
+Nitrate,Ground water and ice ,[-7;150],"(3.0, 4.0)",0.0064
+Nitrate,Soil extracts,[-23;46],"(3.0, 4.0)",0.0145
+Nitrate,Desert salt deposits,[-5;15],"(3.0, 4.0)",0.05
+Nitrate,Synthetic reagents and fertilizers,[-23;15],"(3.0, 4.0)",0.0263
+Nitrite,Ground waters,[-30;55],"(3.0, 4.0)",0.0118
+Nitrite,Synthetic reagents ,[-80;4],"(3.0, 4.0)",0.0119
+Nitrogen oxide gases,N2O in air (troposphere),[0;10],"(3.0, 4.0)",0.1
+Nitrogen oxide gases,N2O in sea water,[3;38],"(3.0, 4.0)",0.0286
+Nitrogen oxide gases,N2O in ground water,[-55;53],"(3.0, 4.0)",0.0093
+Nitrogen oxide gases,NOx in air,[-15;5],"(3.0, 4.0)",0.05
+Nitrogen gas,Air,[0;0],"(3.0, 4.0)",Error
+Nitrogen gas,Ground waters,[-3;5],"(3.0, 4.0)",0.125
+Nitrogen gas,Volcanic gases and hot springs,[-10;16],"(3.0, 4.0)",0.0385
+Nitrogen gas,Sedimentary basins,[-49;46],"(3.0, 4.0)",0.0105
+Nitrogen gas,Commercial tank gas,[-5;3],"(3.0, 4.0)",0.0
+Organic nitrogen,Plants and animals,[-49;31],"(3.0, 4.0)",0.0125
+Organic nitrogen,Marine particulate organic matter,[-3;46],"(3.0, 4.0)",0.0204
+Organic nitrogen,"Bituminuous sediments, peat, and coal",[-3;13],"(3.0, 4.0)",0.0625
+Organic nitrogen,Crude Oil ,[1;7],"(3.0, 4.0)",0.1667
+Organic nitrogen,Soils,[-29;38],"(3.0, 4.0)",0.0149
+Organic nitrogen,Synthetic reagents and fertilizers,[-3;6],"(3.0, 4.0)",0.1111
+Organic nitrogen,Biological fertilizers,[3;15],"(3.0, 4.0)",0.0833
+Nitrogen in rocks,Metamorphic rocks,[1;17],"(3.0, 4.0)",0.0625
+Nitrogen in rocks,Igneous rocks,[-36;31],"(3.0, 4.0)",0.0149
+Nitrogen in rocks,Diamonds,[-37;14],"(3.0, 4.0)",0.0196
+Ammonium,Air (ammonia gas),[-15;28],"(3.0, 4.0)",0.0233
+Ammonium,Air (aerosols and precipitation),[-14;14],"(3.0, 4.0)",0.0357
+Ammonium,Sea water and estuaries ,[2;42],"(3.0, 4.0)",0.025
+Ammonium,Soil extracts  ,[-7;50],"(3.0, 4.0)",0.0175
+Ammonium,Volcanic gas condensates ,[-31;13],"(3.0, 4.0)",0.0227
+Ammonium,Synthetic reagents and fertilizers  ,[-5;11],"(3.0, 4.0)",0.0625

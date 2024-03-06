@@ -1,0 +1,10 @@
+Category,Subcategory,Delta,maxInterval,JaccardIndex
+Standard atomic weight,Standard atomic weight,[-7.44;6.26],"(-0.75, -0.69)",0.0044
+Water,Sea water,[-1;-0.69],"(-0.75, -0.69)",0.1935
+Water,Rivers and streams,[-1.82;-0.08],"(-0.75, -0.69)",0.0345
+Water,Rain,[-0.75;-0.5],"(-0.75, -0.69)",0.24
+Igneous and metamorphic rock,Olivine,[-3.01;1.03],"(-0.75, -0.69)",0.0149
+Igneous and metamorphic rock,Others,[-0.75;0.14],"(-0.75, -0.69)",0.0674
+Carbonates (biological and non-biological origin),Carbonates (biological and non-biological origin),[-5.57;-1.04],"(-0.75, -0.69)",-0.064
+Organic matter,Organic matter,[-3.55;0.73],"(-0.75, -0.69)",0.014
+Elemental magnesium,Elemental magnesium,[-0.82;0.54],"(-0.75, -0.69)",0.0441

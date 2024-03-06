@@ -1,0 +1,10 @@
+Category,Subcategory,Delta,maxInterval,JaccardIndex
+Standard atomic weight,Standard atomic weight,[-17.81;12.15],"(0.2, 0.3)",0.0033
+Chlorides,Sea water,[-0.15;0.94],"(0.2, 0.3)",0.0917
+Chlorides,"Ground, surface, pore and oil formation waterrs ",[-7.7;2.94],"(0.2, 0.3)",0.0094
+Chlorides,Hydrothermal fluid-inclusion water,[-1.1;0.8],"(0.2, 0.3)",0.0526
+Chlorides,NaCl (halite),[-0.2;0.7],"(0.2, 0.3)",0.1111
+Chlorides,KCl (sylvite),[-0.5;0.3],"(0.2, 0.3)",0.125
+Chlorides,Rock or sediments ,[0.2;7.5],"(0.2, 0.3)",0.0137
+Organic solvents,CH3Cl,[-6;4],"(0.2, 0.3)",0.01
+Organic solvents,Other (trichloroethylene and others),[-2.5;4.4],"(0.2, 0.3)",0.0145

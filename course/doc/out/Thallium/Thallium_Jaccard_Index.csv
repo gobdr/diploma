@@ -1,0 +1,5 @@
+Category,Subcategory,Delta,maxInterval,JaccardIndex
+Standard atomic weight,Standard atomic weight,[-3.19;4.03],"(-0.14, 0.02)",0.0222
+Igneous rocks,Igneous rocks,[-0.18;0.35],"(-0.14, 0.02)",0.3019
+Sedimentary rocks,Sedimentary rocks,[0.33;1.43],"(-0.14, 0.02)",-0.2818
+Reagents,Reagents,[-0.14;0.02],"(-0.14, 0.02)",1.0

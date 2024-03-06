@@ -1,0 +1,24 @@
+Category,Subcategory,Delta,maxInterval,JaccardIndex
+Standard atomic weight,Standard atomic weight,[-57.9;144.2],"(1.0, 1.6)",0.003
+Sulfate,Atmospheric,[-30;30],"(1.0, 1.6)",0.01
+Sulfate,Surface water/groundwater,[-22;135],"(1.0, 1.6)",0.0038
+Sulfate,Modern ocean,[20.7;21.3],"(1.0, 1.6)",-31.8333
+Sulfate,Mineral,[-43;-3],"(1.0, 1.6)",-0.1
+Sulfate,Commercial ,[-3;30],"(1.0, 1.6)",0.0182
+Sulfate,Sulfuric acid,[-3;12],"(1.0, 1.6)",0.04
+Sulfate,Reagents ,[-34;26],"(1.0, 1.6)",0.01
+Sulfur dioxide,Atmospheric,[-39;33],"(1.0, 1.6)",0.0083
+Sulfur dioxide,Reagents ,[0.8;1.6],"(1.0, 1.6)",0.75
+Elemental sulfur,Native ,[-30;16],"(1.0, 1.6)",0.013
+Elemental sulfur,Commercial,[-4;28],"(1.0, 1.6)",0.0188
+Organic sulfur,Soil ,[-31;31],"(1.0, 1.6)",0.0097
+Organic sulfur,Vegetation ,[-33;32],"(1.0, 1.6)",0.0092
+Organic sulfur,Animals ,[-10;21],"(1.0, 1.6)",0.0194
+Organic sulfur,Fossil fuels ,[-11;28],"(1.0, 1.6)",0.0154
+Organic sulfur,Reagents  ,[1;18],"(1.0, 1.6)",0.0353
+Sulfide,Atmospheric H2S,[-32;20],"(1.0, 1.6)",0.0115
+Sulfide,Thermogenic H2S,[0;30],"(1.0, 1.6)",0.02
+Sulfide,Surface water/ground water,[-55;30],"(1.0, 1.6)",0.0071
+Sulfide,Minerals ,[-54;70],"(1.0, 1.6)",0.0048
+Sulfide,Reagent H2S,[1;23],"(1.0, 1.6)",0.0273
+Sulfide,Other reagents,[-33;23],"(1.0, 1.6)",0.0107

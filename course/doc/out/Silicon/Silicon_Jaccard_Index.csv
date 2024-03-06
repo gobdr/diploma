@@ -1,0 +1,13 @@
+Category,Subcategory,Delta,maxInterval,JaccardIndex
+Standard atomic weight,Standard atomic weight,[-6.4;6.2],"(-0.4, 0.0)",0.0317
+Igneous rocks,Igneous Rocks,[-1;0.4],"(-0.4, 0.0)",0.2857
+Metamorphic rocks,Metamorphic rocks,[-1.1;1.1],"(-0.4, 0.0)",0.1818
+Vein quartz and silicified rocks,Vein quartz and silicified rocks,[-1.5;1.1],"(-0.4, 0.0)",0.1538
+Sedimentary rocks,Quartz sandstones,[-5.7;0.2],"(-0.4, 0.0)",0.0678
+Sedimentary rocks,Clay minerals,[-2.6;1.5],"(-0.4, 0.0)",0.0976
+Sedimentary rocks,Sinter,[-3.4;0.2],"(-0.4, 0.0)",0.1111
+Sedimentary rocks,Sea-floor hydrothermal siliceous precipitates,[-3.1;0],"(-0.4, 0.0)",0.129
+Sedimentary rocks,other siliceous rocks,[-0.8;3.4],"(-0.4, 0.0)",0.0952
+Dissolved silica,Dissolved silica,[-0.4;3.4],"(-0.4, 0.0)",0.1053
+Biogenic silica,Biogenic silica,[-3.7;6.1],"(-0.4, 0.0)",0.0408
+Elemental silicon,Elemental silicon,[-1.3;0.5],"(-0.4, 0.0)",0.2222

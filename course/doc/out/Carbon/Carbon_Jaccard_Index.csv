@@ -1,0 +1,29 @@
+Category,Subcategory,Delta,maxInterval,JaccardIndex
+Standard atomic weight,Standard atomic weight,[-135.9;46.2],"(-30.0, -28.76)",0.0068
+Carbonate and bicarbonate,Sea water,[-0.8;2.2],"(-30.0, -28.76)",-9.32
+Carbonate and bicarbonate,Other water,[-37.1;37.5],"(-30.0, -28.76)",0.0166
+Carbonate and bicarbonate,Metamorphic and igneous rock,[-11.9;24.8],"(-30.0, -28.76)",-0.4594
+Carbonate and bicarbonate,Typical marine carbonate rock,[-6;6],"(-30.0, -28.76)",-1.8967
+Carbonate and bicarbonate,Other carbonate,[-64.5;21.1],"(-30.0, -28.76)",0.0145
+Carbon dioxide,Air,[-8.2;-6.7],"(-30.0, -28.76)",-13.7067
+Carbon dioxide,Soil gas ,[-31;6.9],"(-30.0, -28.76)",0.0327
+Carbon dioxide,Volcanic gas ,[-37;23],"(-30.0, -28.76)",0.0207
+Carbon dioxide,"Oil, gas, coal, and landfills ",[-37.6;28],"(-30.0, -28.76)",0.0189
+Carbon dioxide,Commercial tank gas and referencematerials ,[-54;-28.76],"(-30.0, -28.76)",0.0491
+Oxalates,CaC2O4·xH20 (whewellite),[-31.7;33.7],"(-30.0, -28.76)",0.019
+Carbon monoxide,Air (CO),[-31.5;-22],"(-30.0, -28.76)",0.1305
+Organic carbon,Land Plants (C3 metabolic process),[-35;-21],"(-30.0, -28.76)",0.0886
+Organic carbon,Land plants (C4 metabolic process),[-16;-9],"(-30.0, -28.76)",-1.8229
+Organic carbon,Land Plants (CAM metabolic process),[-34;-10],"(-30.0, -28.76)",0.0517
+Organic carbon,Marine Organisms ,[-74.3;-2],"(-30.0, -28.76)",0.0172
+Organic carbon,Marine sediments and compounds,[-130.3;7],"(-30.0, -28.76)",0.009
+Organic carbon,Coal,[-30;-19],"(-30.0, -28.76)",0.1127
+Organic carbon,Crude Oil,[-44;-16.8],"(-30.0, -28.76)",0.0456
+Organic carbon,Ethanol (naturally occurring),[-32;-10.3],"(-30.0, -28.76)",0.0571
+Elemental carbon,Graphite,[-41;6.2],"(-30.0, -28.76)",0.0263
+Elemental carbon,Diamonds,[-34.4;5],"(-30.0, -28.76)",0.0315
+Ethane,Hydrocarbon gas,[-55.6;6.6],"(-30.0, -28.76)",0.0199
+Methane,Air ,[-50.6;-39],"(-30.0, -28.76)",-0.7759
+Methane,Marine and other sources ,[-109;12.7],"(-30.0, -28.76)",0.0102
+Methane,Fresh water sources ,[-86;-50],"(-30.0, -28.76)",-0.5556
+Methane,Commercial tank gas,[-51;-38],"(-30.0, -28.76)",-0.6154

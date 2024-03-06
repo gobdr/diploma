@@ -1,0 +1,15 @@
+Category,Subcategory,Delta,maxInterval,JaccardIndex
+Standard atomic weight,Standard atomic weight,[-35.3;61.3],"(4.0, 7.3)",0.0342
+Marine Sources,Sea water,[38.4;40.4],"(4.0, 7.3)",-15.55
+Marine Sources,Evaporated sea water,[36.5;58.5],"(4.0, 7.3)",-1.3273
+Marine Sources,Hydrothermal fluids,[30;36.8],"(4.0, 7.3)",-3.3382
+Marine Sources,Evaporite minerals ,[18.2;31.7],"(4.0, 7.3)",-0.8074
+Marine Sources,Carbonates (skeletal parts and formations),[4;32.2],"(4.0, 7.3)",0.117
+Non-marine sources,Rain water,[0.8;35],"(4.0, 7.3)",0.0965
+Non-marine sources,"Brines, surface and ground waters",[-21.3;59.2],"(4.0, 7.3)",0.041
+Non-marine sources,Hydrothermal fluids ,[-9.3;29.1],"(4.0, 7.3)",0.0859
+Non-marine sources,Evaporite minerals,[-31.3;7.3],"(4.0, 7.3)",0.0855
+Igneous rocks,Igneous rocks,[-17;-1.7],"(4.0, 7.3)",-0.3725
+Metamorphic rocks,Metamorphic rocks,[-34.2;22],"(4.0, 7.3)",0.0587
+Sediments,Sediments,[-17;26.2],"(4.0, 7.3)",0.0764
+Organic boron,Organic boron,[-12;29.3],"(4.0, 7.3)",0.0799

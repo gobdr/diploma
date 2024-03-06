@@ -1,0 +1,19 @@
+Category,Subcategory,Delta,maxInterval,JaccardIndex
+Standard atomic weight,Standard atomic weight,[-28.1;3244.3],"(3.4, 6.8)",0.001
+Marine Sources,Sea water ,[32.4;33.9],"(3.4, 6.8)",-17.0667
+Marine Sources,Hydrothermal fluids,[2.6;11],"(3.4, 6.8)",0.4048
+Marine Sources,Foraminifera and carbonicsediments,[-10;42],"(3.4, 6.8)",0.0654
+Marine Sources,Brines and pore water,[1;56.3],"(3.4, 6.8)",0.0615
+Non-Marine Sources,Surface Water ,[15.5;34.4],"(3.4, 6.8)",-0.4603
+Non-Marine Sources,Ground and thermal water,[-19;10],"(3.4, 6.8)",0.1172
+Non-Marine Sources,Contaminated ground water,[10;354],"(3.4, 6.8)",-0.0093
+Lithium in rocks,Basalt (unaltered),[3.4;6.8],"(3.4, 6.8)",1.0
+Lithium in rocks,Basalt (altered),[-2.1;13.5],"(3.4, 6.8)",0.2179
+Lithium in rocks,Rhyolite,[-3.5;-3.5],"(3.4, 6.8)",Error
+Lithium in rocks,Granite,[0;11.2],"(3.4, 6.8)",0.3036
+Lithium in rocks,Limestone,[-3.5;33.5],"(3.4, 6.8)",0.0919
+Phosphates,LiAlFPO4 (amblygonite),[-13;7.4],"(3.4, 6.8)",0.1667
+Silicates,LiAl(SiO3)2 (spodumene),[-12.6;11.8],"(3.4, 6.8)",0.1393
+Silicates,KLiAl2Si3O10 (lepidolite),[-6.6;7.2],"(3.4, 6.8)",0.2464
+Reagents,6Li depleted compounds,[434;3013],"(3.4, 6.8)",-0.1656
+Reagents,Other reagents,[-11;23],"(3.4, 6.8)",0.1

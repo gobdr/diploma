@@ -1,0 +1,21 @@
+Category,Subcategory,Delta,maxInterval,JaccardIndex
+Standard atomic weight,Standard atomic weight,[-904.5;818.9],"(-136.0, -133.0)",0.0017
+Water,Sea water (deep),[-2.5;3.2],"(-136.0, -133.0)",-22.8947
+Water,Other (naturally occurring),[-495;129],"(-136.0, -133.0)",0.0048
+Water,Fruit juice and wint,[-43;47],"(-136.0, -133.0)",-1.0
+Silicates,Pectolite,[-429;-281],"(-136.0, -133.0)",-0.9797
+Silicates,Other,[-208;5],"(-136.0, -133.0)",0.0141
+Hydroxides,Aluminum and iron,[-220;-8],"(-136.0, -133.0)",0.0142
+Organic hydrogen,Non-marine organisms,[-237;66],"(-136.0, -133.0)",0.0099
+Organic hydrogen,Marine organisms,[-166;-13],"(-136.0, -133.0)",0.0196
+Organic hydrogen,Organic sediments,[-103;-59],"(-136.0, -133.0)",-0.6818
+Organic hydrogen,Coal,[-162;-65],"(-136.0, -133.0)",0.0309
+Organic hydrogen,Crude oil,[-163;-80],"(-136.0, -133.0)",0.0361
+Organic hydrogen,Ethanol (naturally occurring),[-272;-200],"(-136.0, -133.0)",-0.8889
+Organic hydrogen,Reagents (synthetic),[-140;802],"(-136.0, -133.0)",0.0032
+Methane,Atmospheric,[-232;-71],"(-136.0, -133.0)",0.0186
+Methane,Other (naturally occurring),[-531;-133],"(-136.0, -133.0)",0.0075
+Hydrogen Gas,Air,[-136;180],"(-136.0, -133.0)",0.0095
+Hydrogen Gas,Other (naturally occurring),[-836;-250],"(-136.0, -133.0)",-0.1945
+Hydrogen Gas,Commercial tank gas,[-813;-56],"(-136.0, -133.0)",0.004
+Hydrogen Gas,Automobile exhaust and industrial contamination,[-690;-147],"(-136.0, -133.0)",-0.0203

@@ -1,0 +1,6 @@
+Category,Subcategory,Delta,maxInterval,JaccardIndex
+Standard atomic weight,Standard atomic weight,[-5.84;6.17],"(-0.8, 0.2)",0.0833
+Inorganic bromide,Sea water,[0;0],"(-0.8, 0.2)",Error
+Inorganic bromide,Saline waters & slat deposits,[-0.8;3.35],"(-0.8, 0.2)",0.241
+Organic compounds,Organic compounds,[-4.3;0.2],"(-0.8, 0.2)",0.2222
+Elemental bromine,Elemental bromine,[-1.34;0.86],"(-0.8, 0.2)",0.4545

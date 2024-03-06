@@ -1,0 +1,25 @@
+Category,Subcategory,Delta,maxInterval,JaccardIndex
+Standard atomic weight,Standard atomic weight,[-65.5;111.3],"(9.4, 9.6)",0.0011
+Oxygen gas,Air,[23.8;23.8],"(9.4, 9.6)",Error
+Water,Sea Water,[-1;0.6],"(9.4, 9.6)",-5.5
+Water,Continental water,[-62.8;31.3],"(9.4, 9.6)",0.0021
+Water,Fruit juice and wine,[-4.4;15.3],"(9.4, 9.6)",0.0102
+Carbon monoxide,Air ,[-6.9;1.7],"(9.4, 9.6)",-0.8953
+Carbon monoxide,Commercial tank gas†,[-65;7.6],"(9.4, 9.6)",-0.0248
+Carbon dioxide,Air ,[40;53],"(9.4, 9.6)",-2.3385
+Carbon dioxide,Commercial tank gas,[3.9;22.2],"(9.4, 9.6)",0.0109
+Carbonates,Typical marine carbonate,[26;34],"(9.4, 9.6)",-2.05
+Carbonates,Igneous (carbonatite),[-1.3;7.7],"(9.4, 9.6)",-0.1889
+Carbonates,Other carbonate,[-20.5;36.4],"(9.4, 9.6)",0.0035
+Nitrogen oxides,N20 (air and water),[20;109],"(9.4, 9.6)",-0.1169
+Nitrogen oxides,Nitrate (air and water),[-2.5;76],"(9.4, 9.6)",0.0025
+Oxides,Al and Fe oxides,[-15.5;16],"(9.4, 9.6)",0.0063
+Oxides,Chert,[9.4;45],"(9.4, 9.6)",0.0056
+Phosphates ,Skeletal parts (phosphates),[6;26.7],"(9.4, 9.6)",0.0097
+Phosphates ,Phosphorite rocks,[8.6;25.1],"(9.4, 9.6)",0.0121
+Silicates,Silicates,[-16.2;34.9],"(9.4, 9.6)",0.0039
+Sulfates,Air ,[-19;14.1],"(9.4, 9.6)",0.006
+Sulfates,Sea water ,[9.3;9.6],"(9.4, 9.6)",0.6667
+Sulfates,Other water ,[-19.8;23.2],"(9.4, 9.6)",0.0047
+Sulfates,Minerals ,[-10;31.2],"(9.4, 9.6)",0.0049
+Plants and animals,"Cellulose, lipids, and tissue",[-4.3;37],"(9.4, 9.6)",0.0048
